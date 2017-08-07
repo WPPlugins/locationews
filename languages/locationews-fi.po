@@ -1,0 +1,417 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Locationews\n"
+"POT-Creation-Date: 2017-04-28 07:25+0300\n"
+"PO-Revision-Date: 2017-04-28 07:25+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_x;esc_html__;esc_html;esc_attr\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-locationews-admin.php:110 admin/class-locationews-admin.php:111
+#: admin/class-locationews-admin.php:263 admin/class-locationews-admin.php:664
+msgid "Locationews"
+msgstr "Locationews"
+
+#: admin/class-locationews-admin.php:143 admin/class-locationews-admin.php:363
+#: admin/partials/locationews-field-google-map.php:2
+#: admin/partials/locationews-metabox.php:65
+msgid "Search location"
+msgstr "Etsi sijaintia"
+
+#: admin/class-locationews-admin.php:159 includes/class-locationews-core.php:23
+msgid "Locationews Default Category"
+msgstr "Locationews Oletuskategoria"
+
+#: admin/class-locationews-admin.php:164
+msgid ""
+"Set the default category for Locationews articles. This function does not "
+"affect on the WordPress categories."
+msgstr ""
+"Aseta oletuskategoria kirjoittamillesi Locationews-uutisille. Ei vaikuta "
+"WordPressin omiin kategorioihin."
+
+#: admin/class-locationews-admin.php:173 includes/class-locationews-core.php:28
+msgid "Categories"
+msgstr "Kategoriat"
+
+#: admin/class-locationews-admin.php:178
+msgid "Select WordPress Categories whose news you want to post to Locationews."
+msgstr ""
+"Valitse ne WordPressin kategoriat, joiden uutiset haluat Locationewsiin."
+
+#: admin/class-locationews-admin.php:187 includes/class-locationews-core.php:33
+msgid "Post types"
+msgstr "Postityypit"
+
+#: admin/class-locationews-admin.php:192
+msgid ""
+"Choose which post types you want to allow use Locationews. The default "
+"option is normal post type."
+msgstr ""
+"Valitse millaiset julkaisut haluat Locationewsiin. Lähtökohtaisesti "
+"julkaistaan post-julkaisut."
+
+#: admin/class-locationews-admin.php:201 includes/class-locationews-core.php:38
+msgid "Default location"
+msgstr "Oletussijainti"
+
+#: admin/class-locationews-admin.php:206
+msgid ""
+"Select the default location (the default option is your publication's "
+"address, here you can choose another location)."
+msgstr ""
+"Valitse julkaisujesi oletussijainti (oletussijainti on lähtökohtaisesti "
+"toimituksesi osoitteessa, tästä voit valita toisen sijainnin)."
+
+#: admin/class-locationews-admin.php:219
+msgid "Settings"
+msgstr "Asetukset"
+
+#: admin/class-locationews-admin.php:235
+#: admin/partials/locationews-settings.php:7
+msgid ""
+"Locationews plugin publish your news to Locationews service. With these "
+"settings, you can specify the basic functions on the map selector which "
+"appear in the article edit view."
+msgstr ""
+"Locationews-plugin julkaisee uutisesi Locationews palveluun. Näillä "
+"asetuksilla voit määrittää artikkelinäkymään ilmestyvän karttavalitsimen "
+"perustoiminnot."
+
+#: admin/class-locationews-admin.php:730
+msgid "All"
+msgstr "Kaikki"
+
+#: admin/partials/locationews-metabox.php:7
+msgid ""
+"When Locationews is enabled, the article will be automatically added to "
+"Locationews when you press the Publish. If you would like to take published "
+"article out of Locationews, change to Off and update the article."
+msgstr ""
+"Kun Locationews on käytössä, artikkeli lisätään automaattisesti "
+"Locationewsiin painaessasi ‘Julkaise’. Jos haluat julkaistun artikkelin pois "
+"Locationewsistä, vaihda valinnaksi ‘Off’ ja päivitä artikkeli."
+
+#: admin/partials/locationews-metabox.php:8
+msgid "Locationews enabled"
+msgstr "Locationews käytössä"
+
+#: admin/partials/locationews-metabox.php:15
+msgid "Enable Ads"
+msgstr "Salli mainokset"
+
+#: admin/partials/locationews-metabox.php:16
+msgid "Ads"
+msgstr "Mainokset"
+
+#: admin/partials/locationews-metabox.php:24
+msgid "Enable show more"
+msgstr "Salli näytä lisää"
+
+#: admin/partials/locationews-metabox.php:25
+msgid "Show more"
+msgstr "Näytä lisää"
+
+#: admin/partials/locationews-metabox.php:32
+msgid ""
+"Select a Locationews category for the news. This function does not affect to "
+"the WordPress categories."
+msgstr ""
+"Valitse Locationewsin kategoria uutisellesi. Tämä toiminto ei vaikuta "
+"WordPressin kategoriohin."
+
+#: admin/partials/locationews-metabox.php:33
+msgid "Category"
+msgstr "Kategoria"
+
+#: admin/partials/locationews-metabox.php:47
+msgid "Write here your article's coordinates."
+msgstr "Kirjoita tähän uutisesi koordinaatit."
+
+#: admin/partials/locationews-metabox.php:48
+msgid "Coordinates"
+msgstr "Koordinaatit"
+
+#: admin/partials/locationews-metabox.php:54
+msgid "Show control panel"
+msgstr "Näytä ohjauspaneeli"
+
+#: admin/partials/locationews-metabox.php:59
+msgid "View in Locationews Desctop Applcation"
+msgstr "Näytä Locationews Desktopissa"
+
+#: admin/partials/locationews-metabox.php:64
+msgid ""
+"Add your news location on the map by dragging the marker or double clicking "
+"on the map. You can also search location by address."
+msgstr ""
+"Lisää uutisesi tapahtumapaikka tuplaklikkaamalla uutisen sijaintia kartalla. "
+"Voit myös hakea sijaintia osoitteella."
+
+#: admin/partials/locationews-settings.php:11
+msgid ""
+"Register your free account at <a href=\"https://locationews.com/en/\" target="
+"\"_blank\">Locationews.com</a> and start publishing."
+msgstr ""
+"Rekisteröi ilmainen tili osoitteessa <a href=“https://locationews.com” "
+"target=“_blank”>Locationews.com</a> ja ala julkaisemaan."
+
+#: admin/partials/locationews-settings.php:22
+msgid "Missing required fields"
+msgstr "Pakollisia kenttiä puuttuu"
+
+#: admin/partials/locationews-settings.php:30
+msgid "Save Settings"
+msgstr "Tallenna asetukset"
+
+#: includes/class-locationews-activator.php:25
+msgid "cURL library is required. Can't use the plugin without it."
+msgstr "cURL kirjasto on pakollinen. Liitännäistä ei voi käyttää ilman sitä."
+
+#: includes/class-locationews-activator.php:75
+msgid "Can't read required settings"
+msgstr "Pakollisia asetuksia ei pystytä lukemaan"
+
+#: includes/class-locationews-activator.php:170
+msgid "Required settings are invalid"
+msgstr "Pakolliset asetukset ovat virheellisiä"
+
+#: includes/class-locationews-core.php:101
+msgid "Post successfully added"
+msgstr "Artikkeli onnistuneesti lisätty"
+
+#: includes/class-locationews-core.php:102
+msgid "Post successfully updated"
+msgstr "Artikkeli onnistuneesti päivitetty"
+
+#: includes/class-locationews-core.php:103
+msgid "Post deleted from Locationews"
+msgstr "Artikkeli poistettu Locationewsista"
+
+#: includes/class-locationews-core.php:104
+msgid ""
+"Post successfully added. <strong>Note that this is just a testing "
+"enviroment. Your article was not really posted to Locationews API.</strong> "
+"Register your free account at <a href=\"https://locationews.com/en/\" target="
+"\"_blank\">Locationews.com</a>"
+msgstr ""
+"Post successfully added. <strong>Note that this is just a testing "
+"enviroment. Your article was not really posted to Locationews API.</strong> "
+"Register your free account at <a href=“https://locationews.com” "
+"target=“_blank”>Locationews.com</a>"
+
+#: includes/class-locationews-core.php:105
+msgid ""
+"Post successfully updated. <strong>Note that this is just a testing "
+"enviroment. Your article was not really posted to Locationews API.</strong> "
+"Register your free account at <a href=\"https://locationews.com/en/\" target="
+"\"_blank\">Locationews.com</a>"
+msgstr ""
+"Post successfully updated. <strong>Note that this is just a testing "
+"enviroment. Your article was not really posted to Locationews API.</strong> "
+"Register your free account at <a href=“https://locationews.com” "
+"target=“_blank”>Locationews.com</a>"
+
+#: includes/class-locationews-core.php:106
+msgid ""
+"Post deleted from Locationews. <strong>Note that this is just a testing "
+"enviroment. Your article was not really posted to Locationews API.</strong> "
+"Register your free account at <a href=\"https://locationews.com/en/\" target="
+"\"_blank\">Locationews.com</a>"
+msgstr ""
+"Post deleted from Locationews. <strong>Note that this is just a testing "
+"enviroment. Your article was not really posted to Locationews API.</strong> "
+"Register your free account at <a href=“https://locationews.com” "
+"target=“_blank”>Locationews.com</a>"
+
+#: includes/class-locationews-core.php:125
+msgid "General error"
+msgstr "Yleinen virhe"
+
+#: includes/class-locationews-core.php:126
+msgid "Invalid URL or request method"
+msgstr "Virheellinen URL tai metodi"
+
+#: includes/class-locationews-core.php:127
+msgid "No Authorization header"
+msgstr "Ei autentikointiheaderiä"
+
+#: includes/class-locationews-core.php:128
+msgid "JWT error"
+msgstr "JWT virhe"
+
+#: includes/class-locationews-core.php:129
+msgid "Missing required parameter"
+msgstr "Pakollinen parametri puuttuu"
+
+#: includes/class-locationews-core.php:130
+msgid "Forbidden parameter"
+msgstr "Kielletty parametri"
+
+#: includes/class-locationews-core.php:131
+msgid "Invalid value for parameter"
+msgstr "Virheellinen arvo parametrille"
+
+#: includes/class-locationews-core.php:132
+msgid "Insufficient privileges to perform action"
+msgstr "Virheelliset käyttöoikeudet"
+
+#: includes/class-locationews-core.php:133
+msgid "No news id"
+msgstr "Ei uutisen id:tä"
+
+#: includes/class-locationews-core.php:134
+msgid "No user id"
+msgstr "Ei käyttäjän id:tä"
+
+#: includes/class-locationews-core.php:135
+msgid "User not found"
+msgstr "Käyttäjää ei löydy"
+
+#: includes/class-locationews-core.php:136
+msgid "Error uploading image"
+msgstr "Virhe ladattaessa kuvaa"
+
+#: includes/class-locationews-core.php:137
+msgid "Unable to delete file since the file does not exist"
+msgstr "Tiedostoa ei voida poistaa koska sitä ei ole olemassa"
+
+#: includes/class-locationews-core.php:138
+msgid "Image file not deleted since it does not belong to this news"
+msgstr "Kuvaa ei poistettu koska se ei kuulu tähän uutiseen"
+
+#: includes/class-locationews-core.php:139
+msgid "Saving news data failed"
+msgstr "Uutisdatan tallennus epäonnistui"
+
+#: includes/class-locationews-core.php:140
+msgid "No publication id"
+msgstr "Ei julkaisun id:tä"
+
+#: includes/class-locationews-core.php:141
+msgid "Publication not found"
+msgstr "Julkaisua ei löydy"
+
+#: includes/class-locationews-core.php:142
+msgid "Error processing image"
+msgstr "Virhe käsitellessä kuvaa"
+
+#: includes/class-locationews-core.php:143
+msgid "Error resizing image"
+msgstr "Virhe kuvakoon muuttamisessa"
+
+#: includes/class-locationews-core.php:144
+msgid "Error saving resized image"
+msgstr "Virhe tallennettaessa muutettua kuvaa"
+
+#: includes/class-locationews-core.php:145
+msgid "Error saving image thumbnail"
+msgstr "Virhe tallennettaessa pientä kuvaa"
+
+#: includes/class-locationews-core.php:146
+msgid "Error copying image, file not found"
+msgstr "Virhe kopioidessa kuvaa, tiedostoa ei lödy"
+
+#~ msgid ""
+#~ "Locationews plugin publish your news to Locationews service. With these "
+#~ "settings, you can specify the basic functions on the map selector which "
+#~ "appear in the article edit view ."
+#~ msgstr ""
+#~ "Locationews-plugin julkaisee uutisesi Locationews palveluun. Näillä "
+#~ "asetuksilla voit määrittää artikkelinäkymään ilmestyvän karttavalitsimen "
+#~ "perustoiminnot."
+
+#~ msgid "Information"
+#~ msgstr "Yleisinfo"
+
+#~ msgid "Locationews Settings"
+#~ msgstr "Locationews Asetukset"
+
+#~ msgid "Locationews Default Category."
+#~ msgstr "Locationews oletuskategoria."
+
+#~ msgid "Default news categories."
+#~ msgstr "Oletuskategoriat"
+
+#~ msgid "Post types to use."
+#~ msgstr "Käytettävät postityypit."
+
+#~ msgid "Default Google Map location."
+#~ msgstr "Oletus Google Map sijainti"
+
+#~ msgid "API"
+#~ msgstr "API"
+
+#~ msgid ""
+#~ "Post successfully added. Note that this is just a testing enviroment. "
+#~ "Your article was not really posted to Locationews API."
+#~ msgstr ""
+#~ "Post successfully added. Note that this is just a testing enviroment. "
+#~ "Your article was not really posted to Locationews API."
+
+#~ msgid ""
+#~ "Post successfully updated. Note that this is just a testing enviroment. "
+#~ "Your article was not really posted to Locationews API."
+#~ msgstr ""
+#~ "Post successfully updated. Note that this is just a testing enviroment. "
+#~ "Your article was not really posted to Locationews API."
+
+#~ msgid ""
+#~ "Post deleted from Locationews. Note that this is just a testing "
+#~ "enviroment. Your article was not really posted to Locationews API."
+#~ msgstr ""
+#~ "Post deleted from Locationews. Note that this is just a testing "
+#~ "enviroment. Your article was not really posted to Locationews API."
+
+#~ msgid "Required settings not found"
+#~ msgstr "Pakolliset asetukset puuttuvat"
+
+#~ msgid "Invalid URL or request method."
+#~ msgstr "Virheellinen URL tai metodi."
+
+#~ msgid "No Authorization header."
+#~ msgstr "Ei autentikointiheaderiä."
+
+#~ msgid "JWT error."
+#~ msgstr "JWT virhe."
+
+#~ msgid "Missing required parameter."
+#~ msgstr "Pakollinen parametri puuttuu."
+
+#~ msgid "Forbidden parameter."
+#~ msgstr "Kielletty parametri."
+
+#~ msgid "Invalid value for parameter."
+#~ msgstr "Virheellinen parametrin arvo."
+
+#~ msgid "Insufficient privileges to perform action."
+#~ msgstr "Ei oikeuksia suorittaa tehtävää."
+
+#~ msgid "No news id."
+#~ msgstr "Ei uutisen ID:tä."
+
+#~ msgid "No user id."
+#~ msgstr "Ei käyttäjän ID:tä."
+
+#~ msgid "User not found."
+#~ msgstr "Käyttäjää ei löydy."
+
+#~ msgid "General error."
+#~ msgstr "Yleinen virhe."
+
+#~ msgid "Post successfully added."
+#~ msgstr "Artikkeli lisätty."
+
+#~ msgid "Post successfully updated."
+#~ msgstr "Artikkeli päivitetty."
+
+#~ msgid "Post deleted from Locationews."
+#~ msgstr "Artikkeli poistettu Locationewsistä."

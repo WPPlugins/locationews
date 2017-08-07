@@ -1,0 +1,67 @@
+#ln-block{display:table;width:100%;}
+#ln-title{display:table-cell;vertical-align:top;}
+#ln-title p{font-size:1.5em;}
+#ln-logo{width:210px;display:table-cell;vertical-align:text-bottom;}
+#ln-logo img{width:200px;height:200px;padding-bottom:20px;}
+
+.locationews-google-map	{
+    min-width:300px;
+    width: 100%;
+    height: 320px;
+    border:1px solid #d1d1d1;
+    margin: 0 0 10px 0;
+}
+.bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-default,
+button.locationews,
+#locationews-save-btn {
+    color: #ffffff !important;
+    background: #F00C19 !important;
+}
+.locationews-form-group label {
+    font-weight: 500 !important;
+    margin:0 0 5px 0 !important;
+}
+#locationewslogo {
+    margin: 4px 0 0 0;
+}
+.pac-card {
+    margin: 10px 10px 0 0;
+    border-radius: 2px 0 0 2px;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    outline: none;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+    background-color: #fff;
+    font-family: Roboto;
+}
+#pac-container {
+    padding-bottom: 12px;
+    margin-right: 12px;
+}
+.pac-controls {
+    display: inline-block;
+    padding: 5px 11px;
+}
+.pac-controls label {
+    font-family: Roboto;
+    font-size: 13px;
+    font-weight: 300;
+}
+#locationews-pac-input {
+    background-color: #fff;
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: 300;
+    margin: 1px 0 0 12px;
+    padding: 2px 11px 2px 13px;
+    text-overflow: ellipsis;
+    width: 500px;
+    border-radius: 2px 0 0 2px;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    outline: none;
+    box-shadow: 0 2px 3px rgba(0, 0, 0, 0.3);
+}
+#locationews-pac-input:focus {
+    border-color: #4d90fe;
+}
